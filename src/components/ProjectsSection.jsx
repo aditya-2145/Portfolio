@@ -16,7 +16,7 @@ const projects = [
     title: "MewChat",
     description:
       "MewChat is a MERN-based real-time chat app featuring email OTP signup, secure JWT authentication, and instant messaging with Socket.IO.",
-    image: "/projects/project2.png",
+    image: "/projects/project2.jpg",
     tags: ["ReactJs", "NodeJs", "MongoDB"],
     demoUrl: "https://mew-chat-lyart.vercel.app/",
     githubUrl: "https://github.com/aditya-2145/MewChat",
